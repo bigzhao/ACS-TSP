@@ -9,7 +9,7 @@
 
 ## Experiment:
 - test case: oliver30
-- dimentions : 30 locations
+- dimensions : 30 locations
 - Best: 423.741
 - order:  0 -> 1 -> 29 -> 28 -> 27 -> 26 -> 25 -> 23 -> 24 -> 22 -> 21 -> 20 -> 19 -> 18 -> 17 -> 16 -> 15 -> 14 -> 13 -> 12 -> 11 -> 10 -> 9 -> 8 -> 7 -> 6 -> 5 -> 4 -> 3 -> 2 -> 0
 
